@@ -4,8 +4,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-- 🌱 I’m currently learning **dotnet**
-
+<!-- 🌱 I’m currently learning **dotnet**
+-->
 - 💬 Ask me about **dotnet,JAVA**
 
 - 📫 How to reach me **maruthim2213@gmail.com**
