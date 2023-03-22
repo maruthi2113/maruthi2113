@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Maruthi</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h3 align="center">A passionate Software/Dotnet developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <!-- 🌱 I’m currently learning **dotnet**
 -->
-- 💬 Ask me about **dotnet,JAVA**
+- 💬 Ask me about **Dotnet,Programming,Data Structures**
 
 - 📫 How to reach me **maruthim2213@gmail.com**
 
