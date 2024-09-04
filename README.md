@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Maruthi</h1>
-<h3 align="center">A passionate Software/Dotnet developer</h3>
+<h3 align="center">A passionate Software/Spring/API developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.oaevensen.com/static/14311ff66c50e97cdc4628f59828db3d/3fa08/office_worker.png">
 
